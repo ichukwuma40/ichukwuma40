@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ichukwuma40
 - 👀 I’m interested in team work.
-- 🌱 I’m currently learning Full stack development :: HTML. CSS, JavaScript.
+- 🌱 I’m currently a Full stack developer :: Java, Spring Boot,  HTML. CSS, JavaScript.
 - 💞️ I’m looking to collaborate on Full stack SOFTWARE development...
 - 📫 How to reach me ichukwuma40@gmail.com.
 
